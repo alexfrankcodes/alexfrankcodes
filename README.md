@@ -1,4 +1,4 @@
-## 👋 Hello World! My name is Alex!
+## 👋 Hello World!
 
 ### 😊 About Me
 
