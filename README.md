@@ -2,7 +2,7 @@
 
 ### 😊 About Me
 
-&nbsp; 🔎 Currently looking for a full time opportunity\
+&nbsp; 🔎 Currently looking for a full-time opportunity\
 &nbsp; 🎓 Earned a Bachelor's in Software Engineering at San Jose State University\
 &nbsp; 💬 Always open to talk about opportunities for collaboration!\
 &nbsp; 📭 Feel free to send me an email at alexfrankcodes@gmail.com
