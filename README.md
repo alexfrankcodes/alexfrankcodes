@@ -25,7 +25,7 @@
 ### 📈 GitHub Analytics
 <p align="center">
 <a href="https://github.com/alexfrankcodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexfrankcodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexfrankcodes&hide=css&layout=compact&exclude_lang=java+r&theme=dark" />
 </a>
 </p>
