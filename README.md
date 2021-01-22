@@ -22,14 +22,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### 📈 GitHub Analytics
-<p align="center">
-<a href="https://github.com/alexfrankcodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexfrankcodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexfrankcodes&hide=css&layout=compact&exclude_lang=java+r&theme=dark" />
-</a>
-</p>
-
 ### 🤝🏻 Connect with Me
 <p>
 <a href="https://www.alexfrankcodes.com"><img src="https://img.shields.io/badge/-alexfrankcodes.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
