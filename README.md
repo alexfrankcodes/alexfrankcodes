@@ -16,11 +16,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS)
 
 ### 🔨 Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![yarn](https://img.shields.io/badge/-yarn-333333?style=flat&logo=yarn)
 
 ### 🤝🏻 Connect with Me
 <p>
