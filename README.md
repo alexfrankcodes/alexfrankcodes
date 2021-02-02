@@ -7,13 +7,14 @@
 &nbsp; 💬 Always open to talk about opportunities for collaboration!\
 &nbsp; 📭 Feel free to send me an email at alexfrankcodes@gmail.com
 
-### 💻 Tech Stack
+### 💻 Skills and Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS)
