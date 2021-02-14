@@ -7,7 +7,7 @@
 &nbsp; 💬 Always open to talk about opportunities for collaboration!\
 &nbsp; 📭 Feel free to send me an email at alexfrankcodes@gmail.com
 
-### 💻 Skills and Technologies
+### 💻 Uses
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
