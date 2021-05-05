@@ -3,6 +3,7 @@
 ### 😊 About Me
 
 &nbsp; 🎓 Earned a Bachelor's degree in Software Engineering at San Jose State University\
+&nbsp; 🛫 ASWE at Southwest Airlines\
 &nbsp; 💬 Always open to talk about opportunities for collaboration!\
 &nbsp; 📭 Feel free to send me an email at alexfrankcodes@gmail.com
 
