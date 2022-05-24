@@ -24,6 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=IntellijIdea&logoColor=1E90FF)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-333333?style=flat&logo=yarn)
 
