@@ -13,7 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=00599C)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -27,6 +29,9 @@
 ![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=IntellijIdea&logoColor=1E90FF)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-333333?style=flat&logo=yarn)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-k8s-333333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 ### 🤝🏻 Connect with Me
 <p>
